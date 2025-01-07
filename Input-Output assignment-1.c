@@ -1,16 +1,15 @@
+//Write a program to print your name and details
+
 #include<stdio.h>
 int main()
 {
+    printf("My name is Tashrin Tarannum Tanisha Ishq\n");
 
-    printf(" My name is Tashrin Tarannum Tanisha and I am 13 years old");
+    printf("I read in class 9\n");
 
-    printf("\n I live with my mother and elder brother at Chittagong in Bangladesh");
+    printf("I am from Bangladesh\n");
 
-    printf("\n I study at JKKCCGHS in the seventh standard");
-
-    printf("\n I am a very honest and decent girl and follow all the instructions from my parents and teachers");
-
-    printf("\n My hobby is programming");
+    printf("My hobbies are programming, listening to music, singing etc.");
 
     return 0;
 }
